@@ -9,8 +9,7 @@ valVarQualifier = 0
 
 def getNpMaxVar(inputArray, segsize = SegmentSize):
     '''
-    Todo:
-    Get the highest segment Variation of the array and the segment with that Variation
+    Todo: Get the highest segment Variation of the array and the segment with that Variation
     '''
     maxVar = -sys.maxsize
     outSegment = []
@@ -26,8 +25,7 @@ def getNpMaxVar(inputArray, segsize = SegmentSize):
 
 def getAccMaxVar(inputArray, segsize = SegmentSize):
     '''
-    Todo:
-    Get the highest segment Variation of the array and the segment with that Variation
+    Todo: Get the highest segment Variation of the array and the segment with that Variation
     '''
     maxVar = -sys.maxsize
     outSegment = []
@@ -62,6 +60,12 @@ def getAve(inputArray, segsize = SegmentSize):
     return outSegment
 
 def getValidMaxArray(inputArray, segsize = SegmentSize):
+    '''
+    Todo: Get the segment with the greatest average value while the variation is not neagtive
+    :param inputArray:
+    :param segsize:
+    :return:
+    '''
     ave_var_comb = []
     N = len(inputArray)
     for begpoint in range(N - segsize):
@@ -80,10 +84,8 @@ def getValidMaxArray(inputArray, segsize = SegmentSize):
 
 def comparison(input1, input2):
     name1, name2, arr1, arr2 = input1[0], input2[0], input1[1], input2[1]
-
     selData_1 = getValidMaxArray(input1[1])
     selData_2 = getValidMaxArray(input2[1])
-
 
     if name1 == name2:
         comparePlot(selData_1, selData_2, isSame=True, restName=name1)

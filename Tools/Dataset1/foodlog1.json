@@ -1,0 +1,2191 @@
+{
+  "fitbit-band" : {
+    "-LNlcyfFOqCe1Vfj1tqK" : {
+      "date" : "1001_18",
+      "endMinute" : 918,
+      "startMinute" : 898
+    },
+    "-LNle4_lsflTm13XcphD" : {
+      "date" : "1001_2018",
+      "endMinute" : 923,
+      "startMinute" : 903,
+      "sugarlevel" : 1
+    },
+    "-LNlltbHLCsHSPSGEHDv" : {
+      "date" : "1001_2018",
+      "endMinute" : 957,
+      "foodname" : "white mocha",
+      "startMinute" : 937,
+      "sugarlevel" : 1
+    },
+    "-LNmSOSL5-eHEycuZwwJ" : {
+      "date" : "1001_2018",
+      "endMinute" : 1147,
+      "foodname" : "rice with kimchi",
+      "startMinute" : 1127,
+      "sugarlevel" : 0
+    },
+    "-LNmSP2xjp05mLxOGQSE" : {
+      "date" : "1001_2018",
+      "endMinute" : 1147,
+      "foodname" : "rice with kimchi",
+      "startMinute" : 1127,
+      "sugarlevel" : 0
+    },
+    "-LNn8RxRDlgMb3YHSbQu" : {
+      "date" : "1001_2018",
+      "endMinute" : 1340,
+      "foodname" : "kimchi with rice",
+      "startMinute" : 1320,
+      "sugarlevel" : 0
+    },
+    "-LNqsUAogEYl5oTxlErC" : {
+      "date" : "1002_2018",
+      "endMinute" : 944,
+      "startMinute" : 924,
+      "sugarlevel" : 0
+    },
+    "-LNrRTJlNrT0BMuvSwIW" : {
+      "date" : "1002_2018",
+      "endMinute" : 1101,
+      "foodname" : "fudge cookies",
+      "startMinute" : 1081,
+      "sugarlevel" : 1
+    },
+    "-LNv5Yq03TOujljQZ3kL" : {
+      "date" : "1003_2018",
+      "endMinute" : 684,
+      "foodname" : "fudge cookies",
+      "startMinute" : 664,
+      "sugarlevel" : 1
+    },
+    "-LNvHVC3SQrCrSbMj1Kz" : {
+      "date" : "1003_2018",
+      "endMinute" : 736,
+      "foodname" : "fudge cookies",
+      "startMinute" : 716,
+      "sugarlevel" : 1
+    },
+    "-LO0nkB8C_IiJlayokD9" : {
+      "date" : "1004_2018",
+      "endMinute" : 1119,
+      "foodname" : "fudge cookies",
+      "startMinute" : 1099,
+      "sugarlevel" : 1
+    },
+    "-LO5TCr80HQEN2q7DYHO" : {
+      "date" : "1005_2018",
+      "endMinute" : 983,
+      "foodname" : "milkshake",
+      "startMinute" : 963,
+      "sugarlevel" : 1
+    },
+    "-LOP5Fs5kPtj8-Ts-cO7" : {
+      "date" : "1009_2018",
+      "endMinute" : 711,
+      "foodname" : "glazed yeast ring",
+      "startMinute" : 691,
+      "sugarlevel" : 1
+    },
+    "-LOPsdhfN267ISTmtVTE" : {
+      "date" : "1009_2018",
+      "endMinute" : 931,
+      "foodname" : "pumpkin donut",
+      "startMinute" : 911,
+      "sugarlevel" : 1
+    },
+    "-LOTzSSp9ksUwH_EHMhN" : {
+      "date" : "1010_2018",
+      "endMinute" : 639,
+      "foodname" : "donuts",
+      "startMinute" : 619,
+      "sugarlevel" : 1
+    },
+    "-LOU4Qodf-zMYWPZktKo" : {
+      "date" : "1010_2018",
+      "endMinute" : 665,
+      "foodname" : "donut",
+      "startMinute" : 645,
+      "sugarlevel" : 1
+    },
+    "-LOV1BKv6TJnwl6O8Hs3" : {
+      "date" : "1010_2018",
+      "endMinute" : 931,
+      "foodname" : "pure leaf tea",
+      "startMinute" : 911,
+      "sugarlevel" : 1
+    },
+    "-LOWJOoTXX4I9vkTqveS" : {
+      "date" : "1010_2018",
+      "endMinute" : 1290,
+      "foodname" : "donut",
+      "startMinute" : 1270,
+      "sugarlevel" : 1
+    },
+    "-LOZ_DhWcr2r9xNr0ZNl" : {
+      "date" : "1011_2018",
+      "endMinute" : 762,
+      "foodname" : "poke",
+      "startMinute" : 742,
+      "sugarlevel" : 0
+    },
+    "-LO_M3sOVKdkFZ_8WWBG" : {
+      "date" : "1011_2018",
+      "endMinute" : 980,
+      "foodname" : "muffins",
+      "startMinute" : 960,
+      "sugarlevel" : 1
+    },
+    "-LOdbIR7-1ijOUvBuJ46" : {
+      "date" : "1012_2018",
+      "endMinute" : 730,
+      "foodname" : "donut",
+      "startMinute" : 710,
+      "sugarlevel" : 1
+    },
+    "-LOeQDSGJYDCEpeLhNVX" : {
+      "date" : "1012_2018",
+      "endMinute" : 956,
+      "foodname" : "muffins",
+      "startMinute" : 936,
+      "sugarlevel" : 1
+    },
+    "-LOeTu5y0VNH2WZB3aCV" : {
+      "date" : "1012_2018",
+      "endMinute" : 972,
+      "foodname" : "muffins",
+      "startMinute" : 952,
+      "sugarlevel" : 1
+    },
+    "-LOtN4AOt141VQfqnjoa" : {
+      "date" : "1015_2018",
+      "endMinute" : 817,
+      "foodname" : "boba",
+      "startMinute" : 797,
+      "sugarlevel" : 1
+    }
+  },
+  "food-collection" : {
+    "Apple" : [ {
+      "carbon" : 14,
+      "energy" : 52,
+      "fat" : 0,
+      "label" : "Apples, raw, with skin",
+      "protein" : 0
+    }, {
+      "carbon" : 18,
+      "energy" : 78,
+      "fat" : 1,
+      "label" : "Apple",
+      "protein" : 1
+    }, {
+      "carbon" : 15,
+      "energy" : 53,
+      "fat" : 0,
+      "label" : "Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 52,
+      "fat" : 0,
+      "label" : "Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 13,
+      "energy" : 47,
+      "fat" : 0,
+      "label" : "Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 52,
+      "fat" : 1,
+      "label" : "APPLE",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 54,
+      "fat" : 0,
+      "label" : "Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 52,
+      "fat" : 1,
+      "label" : "APPLE",
+      "protein" : 0
+    }, {
+      "carbon" : 35,
+      "energy" : 150,
+      "fat" : 0,
+      "label" : "APPLE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE",
+      "protein" : 0
+    }, {
+      "carbon" : 13,
+      "energy" : 51,
+      "fat" : 0,
+      "label" : "Apple Juice, Country Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 49,
+      "fat" : 0,
+      "label" : "WACKY APPLE, APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 14,
+      "energy" : 56,
+      "fat" : 0,
+      "label" : "APPLE CINNAMON APPLE SAUCE",
+      "protein" : 0
+    }, {
+      "carbon" : 47,
+      "energy" : 176,
+      "fat" : 0,
+      "label" : "APPLE TIME, APPLE BUTTER",
+      "protein" : 0
+    }, {
+      "carbon" : 41,
+      "energy" : 169,
+      "fat" : 0,
+      "label" : "MEIJER, APPLE JUICE, APPLE",
+      "protein" : 1
+    }, {
+      "carbon" : 11,
+      "energy" : 49,
+      "fat" : 0,
+      "label" : "Apple & Eve, Apple Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 11,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE & EVE, APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 70,
+      "energy" : 250,
+      "fat" : 0,
+      "label" : "Kroger Apple Jelly Apple",
+      "protein" : 0
+    }, {
+      "carbon" : 11,
+      "energy" : 57,
+      "fat" : 0,
+      "label" : "JUMEX, APPLE NECTAR, APPLE",
+      "protein" : 0
+    }, {
+      "carbon" : 16,
+      "energy" : 67,
+      "fat" : 0,
+      "label" : "APPLE SAUCE, APPLE CINNAMON",
+      "protein" : 0
+    } ],
+    "Apple juice" : [ {
+      "carbon" : 11,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "Apple juice, canned or bottled, unsweetened, without added ascorbic acid",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 51,
+      "fat" : 0,
+      "label" : "Apple Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 49,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 10,
+      "energy" : 42,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 13,
+      "energy" : 51,
+      "fat" : 0,
+      "label" : "Apple Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 11,
+      "energy" : 44,
+      "fat" : 0,
+      "label" : "Apple Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 15,
+      "energy" : 58,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 51,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 10,
+      "energy" : 42,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 50,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "Apple Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 48,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 13,
+      "energy" : 50,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 48,
+      "energy" : 200,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 48,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 11,
+      "energy" : 46,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    }, {
+      "carbon" : 13,
+      "energy" : 50,
+      "fat" : 0,
+      "label" : "APPLE JUICE",
+      "protein" : 0
+    } ],
+    "Banana" : [ {
+      "carbon" : 23,
+      "energy" : 89,
+      "fat" : 0,
+      "label" : "Bananas, raw",
+      "protein" : 1
+    }, {
+      "carbon" : 23,
+      "energy" : 89,
+      "fat" : 0,
+      "label" : "Banana",
+      "protein" : 1
+    }, {
+      "carbon" : 23,
+      "energy" : 89,
+      "fat" : 0,
+      "label" : "Banana",
+      "protein" : 1
+    }, {
+      "carbon" : 23,
+      "energy" : 93,
+      "fat" : 0,
+      "label" : "Banana",
+      "protein" : 1
+    }, {
+      "carbon" : 79,
+      "energy" : 336,
+      "fat" : 1,
+      "label" : "BANANA",
+      "protein" : 0
+    }, {
+      "carbon" : 39,
+      "energy" : 259,
+      "fat" : 10,
+      "label" : "Banana Banana Bread",
+      "protein" : 4
+    }, {
+      "carbon" : 24,
+      "energy" : 95,
+      "fat" : 0,
+      "label" : "1/2 Banana",
+      "protein" : 2
+    }, {
+      "carbon" : 52,
+      "energy" : 254,
+      "fat" : 4,
+      "label" : "Banana Cookies with Banana Frosting",
+      "protein" : 4
+    }, {
+      "carbon" : 17,
+      "energy" : 73,
+      "fat" : 1,
+      "label" : "Banana Banana, 12 oz",
+      "protein" : 1
+    }, {
+      "carbon" : 16,
+      "energy" : 70,
+      "fat" : 1,
+      "label" : "Banana Banana, 24 oz",
+      "protein" : 1
+    }, {
+      "carbon" : 20,
+      "energy" : 85,
+      "fat" : 1,
+      "label" : "Banana Banana, 20 oz",
+      "protein" : 1
+    }, {
+      "carbon" : 16,
+      "energy" : 68,
+      "fat" : 1,
+      "label" : "Banana Banana, 16 oz",
+      "protein" : 1
+    }, {
+      "carbon" : 67,
+      "energy" : 500,
+      "fat" : 27,
+      "label" : "Woodpecker Banana Chips Banana",
+      "protein" : 3
+    }, {
+      "carbon" : 91,
+      "energy" : 376,
+      "fat" : 1,
+      "label" : "Banana Flower",
+      "protein" : 2
+    }, {
+      "carbon" : 5,
+      "energy" : 27,
+      "fat" : 0,
+      "label" : "Pepper, banana, raw",
+      "protein" : 2
+    }, {
+      "carbon" : 58,
+      "energy" : 519,
+      "fat" : 34,
+      "label" : "Snacks, banana chips",
+      "protein" : 2
+    }, {
+      "carbon" : 20,
+      "energy" : 203,
+      "fat" : 14,
+      "label" : "Banana Royale",
+      "protein" : 1
+    }, {
+      "carbon" : 28,
+      "energy" : 141,
+      "fat" : 4,
+      "label" : "Banana Pops",
+      "protein" : 1
+    }, {
+      "carbon" : 9,
+      "energy" : 75,
+      "fat" : 0,
+      "label" : "Banana Margarita",
+      "protein" : 0
+    }, {
+      "carbon" : 38,
+      "energy" : 342,
+      "fat" : 20,
+      "label" : "Banana Purses",
+      "protein" : 4
+    } ],
+    "Beef" : [ {
+      "carbon" : 0,
+      "energy" : 130,
+      "fat" : 5,
+      "label" : "Beef, chuck for stew, separable lean and fat, choice, raw",
+      "protein" : 22
+    }, {
+      "carbon" : 0,
+      "energy" : 129,
+      "fat" : 6,
+      "label" : "BEEF",
+      "protein" : 20
+    }, {
+      "carbon" : 16,
+      "energy" : 110,
+      "fat" : 2,
+      "label" : "BEEF",
+      "protein" : 6
+    }, {
+      "carbon" : 4,
+      "energy" : 113,
+      "fat" : 3,
+      "label" : "BEEF",
+      "protein" : 19
+    }, {
+      "carbon" : 4,
+      "energy" : 106,
+      "fat" : 3,
+      "label" : "Beef",
+      "protein" : 18
+    }, {
+      "carbon" : 2,
+      "energy" : 300,
+      "fat" : 27,
+      "label" : "Beef",
+      "protein" : 11
+    }, {
+      "carbon" : 2,
+      "energy" : 301,
+      "fat" : 27,
+      "label" : "BEEF",
+      "protein" : 12
+    }, {
+      "carbon" : 2,
+      "energy" : 300,
+      "fat" : 26,
+      "label" : "BEEF",
+      "protein" : 12
+    }, {
+      "carbon" : 0,
+      "energy" : 214,
+      "fat" : 15,
+      "label" : "HEREFORD BEEF, GROUND BEEF",
+      "protein" : 19
+    }, {
+      "carbon" : 0,
+      "energy" : 257,
+      "fat" : 20,
+      "label" : "ANGUS BEEF GROUND BEEF",
+      "protein" : 17
+    }, {
+      "carbon" : 7,
+      "energy" : 175,
+      "fat" : 7,
+      "label" : "BEEF & BEEF TENDON BALLS",
+      "protein" : 21
+    }, {
+      "carbon" : 0,
+      "energy" : 252,
+      "fat" : 20,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 17
+    }, {
+      "carbon" : 0,
+      "energy" : 252,
+      "fat" : 20,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 17
+    }, {
+      "carbon" : 0,
+      "energy" : 262,
+      "fat" : 21,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 18
+    }, {
+      "carbon" : 0,
+      "energy" : 6,
+      "fat" : 0,
+      "label" : "RACHAELRAY, BEEF STOCK, BEEF",
+      "protein" : 1
+    }, {
+      "carbon" : 0,
+      "energy" : 294,
+      "fat" : 0,
+      "label" : "Vienna Beef Beef Salami",
+      "protein" : 14
+    }, {
+      "carbon" : 4,
+      "energy" : 353,
+      "fat" : 28,
+      "label" : "Beef Sticks, Angus Beef",
+      "protein" : 18
+    }, {
+      "carbon" : 26,
+      "energy" : 200,
+      "fat" : 9,
+      "label" : "Beef base",
+      "protein" : 10
+    }, {
+      "carbon" : 4,
+      "energy" : 299,
+      "fat" : 26,
+      "label" : "Bologna, beef",
+      "protein" : 11
+    }, {
+      "carbon" : 0,
+      "energy" : 116,
+      "fat" : 7,
+      "label" : "beef bone",
+      "protein" : 11
+    } ],
+    "Candy" : [ {
+      "carbon" : 100,
+      "energy" : 389,
+      "fat" : 0,
+      "label" : "CANDY",
+      "protein" : 0
+    }, {
+      "carbon" : 100,
+      "energy" : 389,
+      "fat" : 0,
+      "label" : "CANDY & DISPENSER CANDY",
+      "protein" : 0
+    }, {
+      "carbon" : 87,
+      "energy" : 415,
+      "fat" : 8,
+      "label" : "Snacks, candy bits, yogurt covered with vitamin C",
+      "protein" : 0
+    }, {
+      "carbon" : 53,
+      "energy" : 527,
+      "fat" : 35,
+      "label" : "Buckeye Candy",
+      "protein" : 7
+    }, {
+      "carbon" : 48,
+      "energy" : 405,
+      "fat" : 11,
+      "label" : "Christmas Candy",
+      "protein" : 1
+    }, {
+      "carbon" : 32,
+      "energy" : 549,
+      "fat" : 44,
+      "label" : "Crockpot Candy",
+      "protein" : 18
+    }, {
+      "carbon" : 59,
+      "energy" : 476,
+      "fat" : 25,
+      "label" : "Candy Cookies",
+      "protein" : 5
+    }, {
+      "carbon" : 35,
+      "energy" : 139,
+      "fat" : 0,
+      "label" : "Candy Apples",
+      "protein" : 0
+    }, {
+      "carbon" : 64,
+      "energy" : 462,
+      "fat" : 21,
+      "label" : "Candies, CARAMELLO Candy Bar",
+      "protein" : 6
+    }, {
+      "carbon" : 63,
+      "energy" : 494,
+      "fat" : 24,
+      "label" : "Candies, WHATCHAMACALLIT Candy Bar",
+      "protein" : 8
+    }, {
+      "carbon" : 59,
+      "energy" : 486,
+      "fat" : 27,
+      "label" : "Candies, MOUNDS Candy Bar",
+      "protein" : 5
+    }, {
+      "carbon" : 60,
+      "energy" : 497,
+      "fat" : 25,
+      "label" : "Candies, REESE'S PIECES Candy",
+      "protein" : 12
+    }, {
+      "carbon" : 100,
+      "energy" : 357,
+      "fat" : 0,
+      "label" : "Cotton Candy",
+      "protein" : 0
+    }, {
+      "carbon" : 63,
+      "energy" : 452,
+      "fat" : 20,
+      "label" : "Candy Cookie",
+      "protein" : 4
+    }, {
+      "carbon" : 71,
+      "energy" : 286,
+      "fat" : 0,
+      "label" : "STRAWBERRY CANDY",
+      "protein" : 0
+    }, {
+      "carbon" : 100,
+      "energy" : 389,
+      "fat" : 0,
+      "label" : "CANDY & DISPENSER",
+      "protein" : 0
+    }, {
+      "carbon" : 100,
+      "energy" : 389,
+      "fat" : 0,
+      "label" : "Pez, Candy",
+      "protein" : 0
+    }, {
+      "carbon" : 58,
+      "energy" : 484,
+      "fat" : 29,
+      "label" : "PEPPERMINT CANDY",
+      "protein" : 3
+    }, {
+      "carbon" : 93,
+      "energy" : 357,
+      "fat" : 0,
+      "label" : "CANDY BLOX",
+      "protein" : 0
+    }, {
+      "carbon" : 90,
+      "energy" : 375,
+      "fat" : 0,
+      "label" : "CANDY CORN",
+      "protein" : 0
+    } ],
+    "Caramel" : [ {
+      "carbon" : 70,
+      "energy" : 300,
+      "fat" : 3,
+      "label" : "Caramel",
+      "protein" : 3
+    }, {
+      "carbon" : 56,
+      "energy" : 333,
+      "fat" : 8,
+      "label" : "CARAMEL",
+      "protein" : 8
+    }, {
+      "carbon" : 82,
+      "energy" : 385,
+      "fat" : 6,
+      "label" : "CARAMEL",
+      "protein" : 0
+    }, {
+      "carbon" : 77,
+      "energy" : 382,
+      "fat" : 8,
+      "label" : "Candies, caramels",
+      "protein" : 5
+    }, {
+      "carbon" : 66,
+      "energy" : 252,
+      "fat" : 0,
+      "label" : "Toppings, butterscotch or caramel",
+      "protein" : 2
+    }, {
+      "carbon" : 23,
+      "energy" : 145,
+      "fat" : 4,
+      "label" : "Desserts, flan, caramel custard, prepared-from-recipe",
+      "protein" : 5
+    }, {
+      "carbon" : 68,
+      "energy" : 474,
+      "fat" : 21,
+      "label" : "Candies, ROLO Caramels in Milk Chocolate",
+      "protein" : 5
+    }, {
+      "carbon" : 65,
+      "energy" : 502,
+      "fat" : 25,
+      "label" : "Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars",
+      "protein" : 5
+    }, {
+      "carbon" : 79,
+      "energy" : 431,
+      "fat" : 13,
+      "label" : "Snacks, popcorn, caramel-coated, without peanuts",
+      "protein" : 4
+    }, {
+      "carbon" : 15,
+      "energy" : 80,
+      "fat" : 2,
+      "label" : "Caramel Macchiato",
+      "protein" : 1
+    }, {
+      "carbon" : 11,
+      "energy" : 61,
+      "fat" : 1,
+      "label" : "Caramel Latte",
+      "protein" : 2
+    }, {
+      "carbon" : 53,
+      "energy" : 406,
+      "fat" : 21,
+      "label" : "Caramel Brownies",
+      "protein" : 5
+    }, {
+      "carbon" : 9,
+      "energy" : 40,
+      "fat" : 1,
+      "label" : "Caramel Frappuccino",
+      "protein" : 0
+    }, {
+      "carbon" : 32,
+      "energy" : 184,
+      "fat" : 7,
+      "label" : "Caramel apples",
+      "protein" : 1
+    }, {
+      "carbon" : 30,
+      "energy" : 446,
+      "fat" : 36,
+      "label" : "Caramel Buttercream",
+      "protein" : 2
+    }, {
+      "carbon" : 30,
+      "energy" : 351,
+      "fat" : 24,
+      "label" : "Caramel Cheesecake",
+      "protein" : 8
+    }, {
+      "carbon" : 54,
+      "energy" : 356,
+      "fat" : 15,
+      "label" : "Caramel Cupcakes",
+      "protein" : 4
+    }, {
+      "carbon" : 59,
+      "energy" : 429,
+      "fat" : 21,
+      "label" : "Caramel Popcorn",
+      "protein" : 3
+    }, {
+      "carbon" : 44,
+      "energy" : 357,
+      "fat" : 21,
+      "label" : "Caramel Sauce",
+      "protein" : 1
+    }, {
+      "carbon" : 51,
+      "energy" : 451,
+      "fat" : 26,
+      "label" : "Caramel Bars",
+      "protein" : 6
+    } ],
+    "Coffee" : [ {
+      "carbon" : 0,
+      "energy" : 1,
+      "fat" : 0,
+      "label" : "Coffee, brewed from grounds, prepared with tap water",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 2,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 1
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 2,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 1,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 1,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "Coffee",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 1,
+      "fat" : 0,
+      "label" : "COFFEE",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 1,
+      "fat" : 0,
+      "label" : "COFFEE",
+      "protein" : 0
+    }, {
+      "carbon" : 2,
+      "energy" : 8,
+      "fat" : 0,
+      "label" : "COFFEE",
+      "protein" : 0
+    }, {
+      "carbon" : 21,
+      "energy" : 310,
+      "fat" : 24,
+      "label" : "COFFEE",
+      "protein" : 2
+    }, {
+      "carbon" : 36,
+      "energy" : 189,
+      "fat" : 3,
+      "label" : "COFFEE",
+      "protein" : 3
+    }, {
+      "carbon" : 8,
+      "energy" : 38,
+      "fat" : 0,
+      "label" : "COFFEE",
+      "protein" : 1
+    }, {
+      "carbon" : 25,
+      "energy" : 295,
+      "fat" : 23,
+      "label" : "COFFEE",
+      "protein" : 3
+    }, {
+      "carbon" : 62,
+      "energy" : 349,
+      "fat" : 10,
+      "label" : "Coffee Glazed Coffee Cake",
+      "protein" : 4
+    }, {
+      "carbon" : 48,
+      "energy" : 340,
+      "fat" : 16,
+      "label" : "Coffee Coffee Cake",
+      "protein" : 3
+    } ],
+    "Fried chicken" : [ {
+      "carbon" : 14,
+      "energy" : 252,
+      "fat" : 17,
+      "label" : "Maryland Fried Chicken",
+      "protein" : 10
+    }, {
+      "carbon" : 22,
+      "energy" : 246,
+      "fat" : 10,
+      "label" : "Fried Chicken Leg",
+      "protein" : 19
+    }, {
+      "carbon" : 7,
+      "energy" : 282,
+      "fat" : 18,
+      "label" : "Fried Chicken, Piece Variety",
+      "protein" : 22
+    }, {
+      "carbon" : 20,
+      "energy" : 250,
+      "fat" : 10,
+      "label" : "Fried Chicken Breast",
+      "protein" : 20
+    }, {
+      "carbon" : 15,
+      "energy" : 168,
+      "fat" : 8,
+      "label" : "Wildfire Fried Chicken Salad",
+      "protein" : 9
+    }, {
+      "carbon" : 35,
+      "energy" : 303,
+      "fat" : 12,
+      "label" : "Fried Chicken Wing",
+      "protein" : 15
+    }, {
+      "carbon" : 25,
+      "energy" : 273,
+      "fat" : 12,
+      "label" : "Fried Chicken Thigh",
+      "protein" : 16
+    }, {
+      "carbon" : 35,
+      "energy" : 303,
+      "fat" : 12,
+      "label" : "Fried Chicken Wing",
+      "protein" : 15
+    }, {
+      "carbon" : 13,
+      "energy" : 222,
+      "fat" : 15,
+      "label" : "CLASSIC FRIED CHICKEN",
+      "protein" : 9
+    }, {
+      "carbon" : 22,
+      "energy" : 236,
+      "fat" : 11,
+      "label" : "Classic Fried Chicken",
+      "protein" : 13
+    }, {
+      "carbon" : 23,
+      "energy" : 464,
+      "fat" : 37,
+      "label" : "KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading",
+      "protein" : 11
+    }, {
+      "carbon" : 19,
+      "energy" : 384,
+      "fat" : 28,
+      "label" : "KFC, Fried Chicken, ORIGINAL RECIPE, Skin and Breading",
+      "protein" : 14
+    }, {
+      "carbon" : 23,
+      "energy" : 319,
+      "fat" : 19,
+      "label" : "Fried Chicken Tenders, 1 Each",
+      "protein" : 16
+    }, {
+      "carbon" : 18,
+      "energy" : 234,
+      "fat" : 13,
+      "label" : "The Smokehouse Fried Chicken Sandwich",
+      "protein" : 11
+    }, {
+      "carbon" : 13,
+      "energy" : 193,
+      "fat" : 11,
+      "label" : "Deli Fried Chicken 12 Pieces",
+      "protein" : 10
+    }, {
+      "carbon" : 13,
+      "energy" : 193,
+      "fat" : 11,
+      "label" : "Deli Fried Chicken 4 Pieces",
+      "protein" : 10
+    }, {
+      "carbon" : 0,
+      "energy" : 139,
+      "fat" : 0,
+      "label" : "Stouffer's Classics Fried Chicken",
+      "protein" : 8
+    }, {
+      "carbon" : 13,
+      "energy" : 139,
+      "fat" : 6,
+      "label" : "Stouffer's Classics Fried Chicken",
+      "protein" : 8
+    }, {
+      "carbon" : 14,
+      "energy" : 115,
+      "fat" : 5,
+      "label" : "Banquet Chicken Fried Chicken Meal",
+      "protein" : 4
+    }, {
+      "carbon" : 17,
+      "energy" : 197,
+      "fat" : 10,
+      "label" : "Fried Chicken Strips Cobb Salad",
+      "protein" : 10
+    } ],
+    "Fried rice" : [ {
+      "carbon" : 31,
+      "energy" : 201,
+      "fat" : 6,
+      "label" : "Fried Rice",
+      "protein" : 5
+    }, {
+      "carbon" : 32,
+      "energy" : 183,
+      "fat" : 5,
+      "label" : "FRIED RICE",
+      "protein" : 3
+    }, {
+      "carbon" : 25,
+      "energy" : 141,
+      "fat" : 2,
+      "label" : "FRIED RICE",
+      "protein" : 5
+    }, {
+      "carbon" : 33,
+      "energy" : 174,
+      "fat" : 3,
+      "label" : "Restaurant, Chinese, fried rice, without meat",
+      "protein" : 4
+    }, {
+      "carbon" : 34,
+      "energy" : 289,
+      "fat" : 13,
+      "label" : "Fried Rice, Original",
+      "protein" : 7
+    }, {
+      "carbon" : 31,
+      "energy" : 199,
+      "fat" : 6,
+      "label" : "Fried Rice, Kids",
+      "protein" : 5
+    }, {
+      "carbon" : 38,
+      "energy" : 376,
+      "fat" : 20,
+      "label" : "Fried Rice, Kids",
+      "protein" : 9
+    }, {
+      "carbon" : 14,
+      "energy" : 130,
+      "fat" : 6,
+      "label" : "Fried Rice w/ Ham",
+      "protein" : 5
+    }, {
+      "carbon" : 20,
+      "energy" : 102,
+      "fat" : 1,
+      "label" : "VEGETABLE FRIED RICE",
+      "protein" : 4
+    }, {
+      "carbon" : 20,
+      "energy" : 102,
+      "fat" : 1,
+      "label" : "Vegetable Fried Rice",
+      "protein" : 4
+    }, {
+      "carbon" : 26,
+      "energy" : 167,
+      "fat" : 4,
+      "label" : "CHICKEN FRIED RICE",
+      "protein" : 6
+    }, {
+      "carbon" : 15,
+      "energy" : 136,
+      "fat" : 4,
+      "label" : "CHICKEN FRIED RICE",
+      "protein" : 9
+    }, {
+      "carbon" : 25,
+      "energy" : 161,
+      "fat" : 4,
+      "label" : "SHRIMP FRIED RICE",
+      "protein" : 5
+    }, {
+      "carbon" : 18,
+      "energy" : 106,
+      "fat" : 2,
+      "label" : "CHICKEN FRIED RICE",
+      "protein" : 5
+    }, {
+      "carbon" : 24,
+      "energy" : 157,
+      "fat" : 4,
+      "label" : "COMBINATION FRIED RICE",
+      "protein" : 6
+    }, {
+      "carbon" : 31,
+      "energy" : 169,
+      "fat" : 2,
+      "label" : "ORANGE CHICKEN FRIED RICE",
+      "protein" : 4
+    }, {
+      "carbon" : 20,
+      "energy" : 106,
+      "fat" : 1,
+      "label" : "Asian Naturals, Chicken Fried Rice",
+      "protein" : 5
+    }, {
+      "carbon" : 20,
+      "energy" : 98,
+      "fat" : 1,
+      "label" : "Asian Naturals Shrimp Fried Rice",
+      "protein" : 4
+    }, {
+      "carbon" : 29,
+      "energy" : 161,
+      "fat" : 2,
+      "label" : "HIBACHI SEASONED CHICKEN FRIED RICE",
+      "protein" : 5
+    }, {
+      "carbon" : 0,
+      "energy" : 157,
+      "fat" : 0,
+      "label" : "Tai Pei Combination Fried Rice",
+      "protein" : 6
+    } ],
+    "Ground beef" : [ {
+      "carbon" : 0,
+      "energy" : 159,
+      "fat" : 8,
+      "label" : "Ground - Ground Beef - 75% Lean",
+      "protein" : 20
+    }, {
+      "carbon" : 0,
+      "energy" : 179,
+      "fat" : 13,
+      "label" : "Ground - Grass Fed Beef - Ground Beef",
+      "protein" : 20
+    }, {
+      "carbon" : 0,
+      "energy" : 130,
+      "fat" : 5,
+      "label" : "chuck beef",
+      "protein" : 22
+    }, {
+      "carbon" : 0,
+      "energy" : 129,
+      "fat" : 6,
+      "label" : "BEEF",
+      "protein" : 20
+    }, {
+      "carbon" : 16,
+      "energy" : 110,
+      "fat" : 2,
+      "label" : "BEEF",
+      "protein" : 6
+    }, {
+      "carbon" : 4,
+      "energy" : 113,
+      "fat" : 3,
+      "label" : "BEEF",
+      "protein" : 19
+    }, {
+      "carbon" : 4,
+      "energy" : 106,
+      "fat" : 3,
+      "label" : "Beef",
+      "protein" : 18
+    }, {
+      "carbon" : 2,
+      "energy" : 300,
+      "fat" : 27,
+      "label" : "Beef",
+      "protein" : 11
+    }, {
+      "carbon" : 2,
+      "energy" : 301,
+      "fat" : 27,
+      "label" : "BEEF",
+      "protein" : 12
+    }, {
+      "carbon" : 2,
+      "energy" : 300,
+      "fat" : 26,
+      "label" : "BEEF",
+      "protein" : 12
+    }, {
+      "carbon" : 0,
+      "energy" : 214,
+      "fat" : 15,
+      "label" : "HEREFORD BEEF, GROUND BEEF",
+      "protein" : 19
+    }, {
+      "carbon" : 0,
+      "energy" : 257,
+      "fat" : 20,
+      "label" : "ANGUS BEEF GROUND BEEF",
+      "protein" : 17
+    }, {
+      "carbon" : 7,
+      "energy" : 175,
+      "fat" : 7,
+      "label" : "BEEF & BEEF TENDON BALLS",
+      "protein" : 21
+    }, {
+      "carbon" : 0,
+      "energy" : 252,
+      "fat" : 20,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 17
+    }, {
+      "carbon" : 0,
+      "energy" : 252,
+      "fat" : 20,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 17
+    }, {
+      "carbon" : 0,
+      "energy" : 262,
+      "fat" : 21,
+      "label" : "ANGUS BEEF & BEEF PATTIES",
+      "protein" : 18
+    }, {
+      "carbon" : 0,
+      "energy" : 6,
+      "fat" : 0,
+      "label" : "RACHAELRAY, BEEF STOCK, BEEF",
+      "protein" : 1
+    }, {
+      "carbon" : 0,
+      "energy" : 294,
+      "fat" : 0,
+      "label" : "Vienna Beef Beef Salami",
+      "protein" : 14
+    }, {
+      "carbon" : 4,
+      "energy" : 353,
+      "fat" : 28,
+      "label" : "Beef Sticks, Angus Beef",
+      "protein" : 18
+    }, {
+      "carbon" : 26,
+      "energy" : 200,
+      "fat" : 9,
+      "label" : "Beef base",
+      "protein" : 10
+    } ],
+    "Hamburger" : [ {
+      "carbon" : 23,
+      "energy" : 246,
+      "fat" : 10,
+      "label" : "Hamburger",
+      "protein" : 12
+    }, {
+      "carbon" : 27,
+      "energy" : 252,
+      "fat" : 11,
+      "label" : "Hamburger",
+      "protein" : 10
+    }, {
+      "carbon" : 16,
+      "energy" : 515,
+      "fat" : 31,
+      "label" : "Hamburger",
+      "protein" : 44
+    }, {
+      "carbon" : 15,
+      "energy" : 197,
+      "fat" : 10,
+      "label" : "Hamburger",
+      "protein" : 12
+    }, {
+      "carbon" : 0,
+      "energy" : 234,
+      "fat" : 18,
+      "label" : "Hamburger",
+      "protein" : 17
+    }, {
+      "carbon" : 13,
+      "energy" : 202,
+      "fat" : 11,
+      "label" : "Hamburger",
+      "protein" : 12
+    }, {
+      "carbon" : 26,
+      "energy" : 230,
+      "fat" : 9,
+      "label" : "Hamburger",
+      "protein" : 9
+    }, {
+      "carbon" : 31,
+      "energy" : 269,
+      "fat" : 13,
+      "label" : "Hamburger",
+      "protein" : 10
+    }, {
+      "carbon" : 21,
+      "energy" : 229,
+      "fat" : 10,
+      "label" : "Hamburger",
+      "protein" : 15
+    }, {
+      "carbon" : 33,
+      "energy" : 245,
+      "fat" : 8,
+      "label" : "Hamburger",
+      "protein" : 12
+    }, {
+      "carbon" : 30,
+      "energy" : 267,
+      "fat" : 10,
+      "label" : "Hamburger",
+      "protein" : 13
+    }, {
+      "carbon" : 50,
+      "energy" : 278,
+      "fat" : 4,
+      "label" : "Rolls, hamburger or hotdog, plain",
+      "protein" : 10
+    }, {
+      "carbon" : 19,
+      "energy" : 215,
+      "fat" : 10,
+      "label" : "Hamburger Cupcakes",
+      "protein" : 11
+    }, {
+      "carbon" : 4,
+      "energy" : 213,
+      "fat" : 15,
+      "label" : "Hamburger Dip",
+      "protein" : 16
+    }, {
+      "carbon" : 8,
+      "energy" : 84,
+      "fat" : 4,
+      "label" : "Hamburger Stew",
+      "protein" : 5
+    }, {
+      "carbon" : 9,
+      "energy" : 150,
+      "fat" : 9,
+      "label" : "Hamburger Stroganoff",
+      "protein" : 9
+    }, {
+      "carbon" : 11,
+      "energy" : 139,
+      "fat" : 7,
+      "label" : "Hamburger Casserole",
+      "protein" : 8
+    }, {
+      "carbon" : 6,
+      "energy" : 73,
+      "fat" : 3,
+      "label" : "Hamburger Soup",
+      "protein" : 5
+    }, {
+      "carbon" : 11,
+      "energy" : 174,
+      "fat" : 10,
+      "label" : "Hamburger Pie",
+      "protein" : 9
+    }, {
+      "carbon" : 14,
+      "energy" : 250,
+      "fat" : 16,
+      "label" : "Double Hamburger",
+      "protein" : 18
+    } ],
+    "Juice" : [ {
+      "carbon" : 11,
+      "energy" : 49,
+      "fat" : 0,
+      "label" : "Juice - Orange - Fresh Squeezed",
+      "protein" : 1
+    } ],
+    "Pizza" : [ {
+      "carbon" : 29,
+      "energy" : 268,
+      "fat" : 12,
+      "label" : "Pizza, cheese topping, regular crust, frozen, cooked",
+      "protein" : 10
+    }, {
+      "carbon" : 28,
+      "energy" : 222,
+      "fat" : 9,
+      "label" : "Pizza",
+      "protein" : 8
+    }, {
+      "carbon" : 32,
+      "energy" : 207,
+      "fat" : 5,
+      "label" : "Pizza",
+      "protein" : 9
+    }, {
+      "carbon" : 26,
+      "energy" : 273,
+      "fat" : 14,
+      "label" : "PIZZA",
+      "protein" : 12
+    }, {
+      "carbon" : 28,
+      "energy" : 232,
+      "fat" : 7,
+      "label" : "PIZZA",
+      "protein" : 10
+    }, {
+      "carbon" : 21,
+      "energy" : 220,
+      "fat" : 10,
+      "label" : "PIZZA",
+      "protein" : 10
+    }, {
+      "carbon" : 29,
+      "energy" : 275,
+      "fat" : 12,
+      "label" : "PIZZA",
+      "protein" : 11
+    }, {
+      "carbon" : 27,
+      "energy" : 227,
+      "fat" : 8,
+      "label" : "PIZZA",
+      "protein" : 12
+    }, {
+      "carbon" : 29,
+      "energy" : 244,
+      "fat" : 9,
+      "label" : "PIZZA",
+      "protein" : 12
+    }, {
+      "carbon" : 20,
+      "energy" : 236,
+      "fat" : 12,
+      "label" : "PIZZA",
+      "protein" : 11
+    }, {
+      "carbon" : 32,
+      "energy" : 245,
+      "fat" : 10,
+      "label" : "PIZZA",
+      "protein" : 7
+    }, {
+      "carbon" : 29,
+      "energy" : 224,
+      "fat" : 9,
+      "label" : "PIZZA",
+      "protein" : 8
+    }, {
+      "carbon" : 21,
+      "energy" : 248,
+      "fat" : 13,
+      "label" : "PIZZA",
+      "protein" : 12
+    }, {
+      "carbon" : 20,
+      "energy" : 258,
+      "fat" : 14,
+      "label" : "PIZZA",
+      "protein" : 13
+    }, {
+      "carbon" : 28,
+      "energy" : 233,
+      "fat" : 9,
+      "label" : "PIZZA",
+      "protein" : 10
+    }, {
+      "carbon" : 26,
+      "energy" : 257,
+      "fat" : 12,
+      "label" : "PIZZA",
+      "protein" : 11
+    }, {
+      "carbon" : 32,
+      "energy" : 238,
+      "fat" : 9,
+      "label" : "PIZZA",
+      "protein" : 7
+    }, {
+      "carbon" : 32,
+      "energy" : 252,
+      "fat" : 10,
+      "label" : "PIZZA",
+      "protein" : 7
+    }, {
+      "carbon" : 32,
+      "energy" : 238,
+      "fat" : 9,
+      "label" : "PIZZA",
+      "protein" : 7
+    }, {
+      "carbon" : 32,
+      "energy" : 252,
+      "fat" : 10,
+      "label" : "PIZZA",
+      "protein" : 7
+    } ],
+    "Rice" : [ {
+      "carbon" : 79,
+      "energy" : 360,
+      "fat" : 1,
+      "label" : "Rice, white, medium-grain, raw, unenriched",
+      "protein" : 7
+    }, {
+      "carbon" : 26,
+      "energy" : 127,
+      "fat" : 1,
+      "label" : "Rice",
+      "protein" : 3
+    }, {
+      "carbon" : 79,
+      "energy" : 340,
+      "fat" : 0,
+      "label" : "Rice",
+      "protein" : 6
+    }, {
+      "carbon" : 79,
+      "energy" : 340,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 6
+    }, {
+      "carbon" : 87,
+      "energy" : 378,
+      "fat" : 1,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 80,
+      "energy" : 356,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 78,
+      "energy" : 356,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 80,
+      "energy" : 356,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 72,
+      "energy" : 386,
+      "fat" : 7,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 78,
+      "energy" : 356,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 80,
+      "energy" : 356,
+      "fat" : 0,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 76,
+      "energy" : 364,
+      "fat" : 2,
+      "label" : "RICE",
+      "protein" : 11
+    }, {
+      "carbon" : 26,
+      "energy" : 139,
+      "fat" : 2,
+      "label" : "RICE",
+      "protein" : 3
+    }, {
+      "carbon" : 75,
+      "energy" : 339,
+      "fat" : 1,
+      "label" : "RICE",
+      "protein" : 9
+    }, {
+      "carbon" : 78,
+      "energy" : 356,
+      "fat" : 1,
+      "label" : "RICE",
+      "protein" : 7
+    }, {
+      "carbon" : 16,
+      "energy" : 141,
+      "fat" : 7,
+      "label" : "THE Rice",
+      "protein" : 4
+    }, {
+      "carbon" : 27,
+      "energy" : 155,
+      "fat" : 3,
+      "label" : "Rice Cooker Rice Pilaf",
+      "protein" : 3
+    }, {
+      "carbon" : 28,
+      "energy" : 133,
+      "fat" : 1,
+      "label" : "Rice cooker Mexican rice",
+      "protein" : 3
+    }, {
+      "carbon" : 30,
+      "energy" : 157,
+      "fat" : 2,
+      "label" : "Caribbean Rice in Rice Cooker",
+      "protein" : 4
+    }, {
+      "carbon" : 76,
+      "energy" : 333,
+      "fat" : 0,
+      "label" : "Rice Select Jasmati Rice",
+      "protein" : 7
+    } ],
+    "Sandwich" : [ {
+      "carbon" : 20,
+      "energy" : 212,
+      "fat" : 10,
+      "label" : "Caprese Sandwich, Whole Sandwich",
+      "protein" : 10
+    }, {
+      "carbon" : 28,
+      "energy" : 273,
+      "fat" : 13,
+      "label" : "McDONALD'S, McCHICKEN Sandwich",
+      "protein" : 10
+    }, {
+      "carbon" : 72,
+      "energy" : 483,
+      "fat" : 20,
+      "label" : "Cookies, vanilla sandwich with creme filling",
+      "protein" : 5
+    }, {
+      "carbon" : 27,
+      "energy" : 257,
+      "fat" : 12,
+      "label" : "Fast foods, fish sandwich, with tartar sauce",
+      "protein" : 10
+    }, {
+      "carbon" : 71,
+      "energy" : 464,
+      "fat" : 19,
+      "label" : "Cookies, chocolate sandwich, with creme filling, regular",
+      "protein" : 5
+    }, {
+      "carbon" : 15,
+      "energy" : 182,
+      "fat" : 11,
+      "label" : "Summer Sandwich",
+      "protein" : 7
+    }, {
+      "carbon" : 14,
+      "energy" : 227,
+      "fat" : 16,
+      "label" : "Beef Sandwich",
+      "protein" : 7
+    }, {
+      "carbon" : 25,
+      "energy" : 238,
+      "fat" : 13,
+      "label" : "Knuckle Sandwich",
+      "protein" : 7
+    }, {
+      "carbon" : 17,
+      "energy" : 215,
+      "fat" : 12,
+      "label" : "Pork Sandwich",
+      "protein" : 10
+    }, {
+      "carbon" : 13,
+      "energy" : 208,
+      "fat" : 11,
+      "label" : "Salmon Sandwich",
+      "protein" : 14
+    }, {
+      "carbon" : 10,
+      "energy" : 179,
+      "fat" : 10,
+      "label" : "Cheesesteak Sandwich",
+      "protein" : 12
+    }, {
+      "carbon" : 37,
+      "energy" : 207,
+      "fat" : 4,
+      "label" : "Sandwich Rolls",
+      "protein" : 6
+    }, {
+      "carbon" : 21,
+      "energy" : 261,
+      "fat" : 16,
+      "label" : "Ribbon Sandwich",
+      "protein" : 10
+    }, {
+      "carbon" : 9,
+      "energy" : 182,
+      "fat" : 11,
+      "label" : "California Sandwich",
+      "protein" : 12
+    }, {
+      "carbon" : 12,
+      "energy" : 207,
+      "fat" : 12,
+      "label" : "Cuban Sandwich",
+      "protein" : 13
+    }, {
+      "carbon" : 18,
+      "energy" : 180,
+      "fat" : 7,
+      "label" : "Chicken Sandwich",
+      "protein" : 11
+    }, {
+      "carbon" : 12,
+      "energy" : 189,
+      "fat" : 14,
+      "label" : "Eggplant Sandwich",
+      "protein" : 5
+    }, {
+      "carbon" : 21,
+      "energy" : 203,
+      "fat" : 9,
+      "label" : "Caprese Sandwich, 1/2 Sandwich",
+      "protein" : 9
+    }, {
+      "carbon" : 27,
+      "energy" : 216,
+      "fat" : 9,
+      "label" : "Crab Sandwich",
+      "protein" : 7
+    }, {
+      "carbon" : 63,
+      "energy" : 460,
+      "fat" : 21,
+      "label" : "Brownie Sandwich",
+      "protein" : 3
+    } ],
+    "Sushi" : [ {
+      "carbon" : 26,
+      "energy" : 137,
+      "fat" : 2,
+      "label" : "Sushi",
+      "protein" : 4
+    }, {
+      "carbon" : 1,
+      "energy" : 21,
+      "fat" : 0,
+      "label" : "Vinegar, sushi",
+      "protein" : 0
+    }, {
+      "carbon" : 8,
+      "energy" : 42,
+      "fat" : 0,
+      "label" : "Tomato sushi",
+      "protein" : 1
+    }, {
+      "carbon" : 26,
+      "energy" : 173,
+      "fat" : 5,
+      "label" : "Sushi Cake",
+      "protein" : 6
+    }, {
+      "carbon" : 39,
+      "energy" : 177,
+      "fat" : 0,
+      "label" : "Sushi Rice",
+      "protein" : 3
+    }, {
+      "carbon" : 87,
+      "energy" : 365,
+      "fat" : 0,
+      "label" : "SUSHI RICE",
+      "protein" : 6
+    }, {
+      "carbon" : 23,
+      "energy" : 166,
+      "fat" : 5,
+      "label" : "SUSHI COMBO",
+      "protein" : 7
+    }, {
+      "carbon" : 27,
+      "energy" : 165,
+      "fat" : 3,
+      "label" : "NIGIRI SUSHI",
+      "protein" : 7
+    }, {
+      "carbon" : 28,
+      "energy" : 167,
+      "fat" : 4,
+      "label" : "INARI SUSHI",
+      "protein" : 4
+    }, {
+      "carbon" : 78,
+      "energy" : 333,
+      "fat" : 0,
+      "label" : "Lundberg California Sushi Rice",
+      "protein" : 9
+    }, {
+      "carbon" : 0,
+      "energy" : 344,
+      "fat" : 0,
+      "label" : "Maruyu - California Sushi Rice",
+      "protein" : 7
+    }, {
+      "carbon" : 78,
+      "energy" : 333,
+      "fat" : 0,
+      "label" : "ORGANIC CALIFORNIA SUSHI RICE",
+      "protein" : 9
+    }, {
+      "carbon" : 78,
+      "energy" : 356,
+      "fat" : 2,
+      "label" : "ORGANIC CALIFORNIA SUSHI RICE",
+      "protein" : 11
+    }, {
+      "carbon" : 78,
+      "energy" : 333,
+      "fat" : 0,
+      "label" : "ORGANIC CALOFORNIA SUSHI RICE",
+      "protein" : 9
+    }, {
+      "carbon" : 23,
+      "energy" : 202,
+      "fat" : 11,
+      "label" : "ALL AMERICAN SUSHI ROLL",
+      "protein" : 5
+    }, {
+      "carbon" : 18,
+      "energy" : 214,
+      "fat" : 6,
+      "label" : "CHEF SPECIAL SUSHI COMBO",
+      "protein" : 3
+    }, {
+      "carbon" : 18,
+      "energy" : 112,
+      "fat" : 2,
+      "label" : "Suki Sushi California Roll",
+      "protein" : 6
+    }, {
+      "carbon" : 4,
+      "energy" : 0,
+      "fat" : 0,
+      "label" : "SUSHI",
+      "protein" : 0
+    }, {
+      "carbon" : 0,
+      "energy" : 134,
+      "fat" : 0,
+      "label" : "TUNA SUSHI COMBO",
+      "protein" : 0
+    }, {
+      "carbon" : 18,
+      "energy" : 124,
+      "fat" : 4,
+      "label" : "MT. FUJI SUSHI ROLL",
+      "protein" : 4
+    } ],
+    "Watermelon" : [ {
+      "carbon" : 8,
+      "energy" : 30,
+      "fat" : 0,
+      "label" : "Watermelon, raw",
+      "protein" : 1
+    }, {
+      "carbon" : 12,
+      "energy" : 30,
+      "fat" : 0,
+      "label" : "Watermelon",
+      "protein" : 1
+    }, {
+      "carbon" : 8,
+      "energy" : 33,
+      "fat" : 0,
+      "label" : "Watermelon",
+      "protein" : 1
+    }, {
+      "carbon" : 7,
+      "energy" : 32,
+      "fat" : 0,
+      "label" : "Watermelon",
+      "protein" : 0
+    }, {
+      "carbon" : 8,
+      "energy" : 29,
+      "fat" : 0,
+      "label" : "WATERMELON",
+      "protein" : 0
+    }, {
+      "carbon" : 16,
+      "energy" : 126,
+      "fat" : 0,
+      "label" : "Watermelon Sugar",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 84,
+      "fat" : 3,
+      "label" : "Watermelon Milkshake",
+      "protein" : 2
+    }, {
+      "carbon" : 7,
+      "energy" : 28,
+      "fat" : 0,
+      "label" : "Watermelon Juice",
+      "protein" : 0
+    }, {
+      "carbon" : 12,
+      "energy" : 57,
+      "fat" : 1,
+      "label" : "Watermelon Basket",
+      "protein" : 1
+    }, {
+      "carbon" : 10,
+      "energy" : 40,
+      "fat" : 0,
+      "label" : "Watermelon Slushies",
+      "protein" : 1
+    }, {
+      "carbon" : 13,
+      "energy" : 82,
+      "fat" : 2,
+      "label" : "Watermelon Pops",
+      "protein" : 4
+    }, {
+      "carbon" : 9,
+      "energy" : 79,
+      "fat" : 0,
+      "label" : "Watermelon Martini",
+      "protein" : 0
+    }, {
+      "carbon" : 20,
+      "energy" : 78,
+      "fat" : 0,
+      "label" : "Pickled Watermelon",
+      "protein" : 0
+    }, {
+      "carbon" : 11,
+      "energy" : 60,
+      "fat" : 2,
+      "label" : "Watermelon Boat",
+      "protein" : 1
+    }, {
+      "carbon" : 12,
+      "energy" : 59,
+      "fat" : 2,
+      "label" : "Watermelon Popsicles",
+      "protein" : 1
+    }, {
+      "carbon" : 9,
+      "energy" : 67,
+      "fat" : 0,
+      "label" : "Watermelon Daiquiri",
+      "protein" : 0
+    }, {
+      "carbon" : 36,
+      "energy" : 148,
+      "fat" : 1,
+      "label" : "Watermelon Jelly",
+      "protein" : 1
+    }, {
+      "carbon" : 8,
+      "energy" : 37,
+      "fat" : 1,
+      "label" : "Grilled Watermelon",
+      "protein" : 1
+    }, {
+      "carbon" : 9,
+      "energy" : 34,
+      "fat" : 0,
+      "label" : "Watermelon Frescas",
+      "protein" : 0
+    }, {
+      "carbon" : 6,
+      "energy" : 24,
+      "fat" : 0,
+      "label" : "Watermelon Slushie",
+      "protein" : 0
+    } ]
+  },
+  "ms-band" : {
+    "-LO-MEX2V21Wd7b7ZfP4" : {
+      "foodname" : "protein bar",
+      "heartrates" : [ 73, 67, 71, 71, 65, 65, 68, 71, 70, 78, 70, 66, 69, 69, 71, 61, 67, 65, 63, 67 ],
+      "sugarlevel" : 0
+    },
+    "-LOEX34FHhx3jX-eVjoK" : {
+      "foodname" : "eggs",
+      "heartrates" : [ 1, 2, 2, 2, 1, 17, 2, 2 ],
+      "sugarlevel" : 0
+    },
+    "-LOFIBLKrwS4Rx238bLz" : {
+      "foodname" : "boba",
+      "heartrates" : [ 97, 87, 95, 94, 83, 81, 92, 85, 87, 82, 86, 88, 89, 80, 74, 83, 87, 82, 81, 78 ],
+      "sugarlevel" : 1
+    },
+    "-LOOvgWEOUWhtpZTB1Vb" : {
+      "foodname" : "protein bar",
+      "heartrates" : [ 61, 68, 67, 66, 70, 70, 67, 62, 61, 58, 60, 61, 64, 58, 57, 59, 69, 63, 57, 60 ],
+      "sugarlevel" : 0
+    },
+    "-LOPim3j9LzOjb7Obkv3" : {
+      "foodname" : "apple",
+      "heartrates" : [ 74, 73, 76, 65, 65, 67, 70, 74, 75, 76, 75, 69, 72, 70, 71, 77, 68, 68, 65, 68 ],
+      "sugarlevel" : 1
+    },
+    "-LOTor_9Zsb0asnjlPWW" : {
+      "foodname" : "apple",
+      "heartrates" : [ 72, 62, 64, 63, 65, 62, 67, 66, 73, 62, 61, 65, 57, 60, 59, 60, 58, 58, 68, 59 ],
+      "sugarlevel" : 1
+    },
+    "-LOVwyDSunEzAH-0K99Z" : {
+      "foodname" : "Muffin",
+      "heartrates" : [ 77, 77, 73, 67, 61, 71, 67, 66, 67, 63, 67, 71, 73, 66, 65, 64, 64, 60, 62, 62 ],
+      "sugarlevel" : 1
+    },
+    "-LOZChLLVPqLGGjYZSSw" : {
+      "foodname" : "eggs",
+      "heartrates" : [ 68, 65, 72, 65, 64, 69, 61, 65, 65, 64, 68, 64, 61, 71, 60, 65, 64, 64, 65, 67 ],
+      "sugarlevel" : 0
+    },
+    "-LO_sS1J8tj1HzpwDKjk" : {
+      "foodname" : "White mocha",
+      "heartrates" : [ 71, 67, 69, 68, 67, 71, 68, 71, 70, 68, 69, 62, 67, 67, 65, 72, 69, 66, 64, 65 ],
+      "sugarlevel" : 1
+    },
+    "-LOeDkawHTYWy-A8kaH5" : {
+      "foodname" : "Donut",
+      "heartrates" : [ 68, 76, 71, 73, 70, 76, 72, 76, 73, 73, 74, 74, 71, 71, 69, 67, 64, 61, 67, 65 ],
+      "sugarlevel" : 1
+    }
+  },
+  "personal-data" : {
+    "94:65:2d:6d:56:a4" : {
+      "0801_2018" : {
+        "199" : [ {
+          "dateFormat" : "20180801_04:39:26",
+          "fooditem" : "Apple",
+          "mealtype" : 1,
+          "quantity" : 1,
+          "timeStamp" : "1533166766906"
+        }, {
+          "dateFormat" : "20180801_04:39:44",
+          "fooditem" : "Apple",
+          "mealtype" : 1,
+          "quantity" : 1,
+          "timeStamp" : "1533166784132"
+        } ],
+        "200" : [ {
+          "dateFormat" : "20180801_04:40:02",
+          "fooditem" : "Banana",
+          "mealtype" : 1,
+          "quantity" : 1,
+          "timeStamp" : "1533166802090"
+        } ]
+      }
+    }
+  }
+}
