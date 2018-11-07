@@ -8,6 +8,9 @@ def fileReader(files):
     '''
     Todo: Using getRestData() to do a simple "MapReduce" on the heartrate data from different resturants
     '''
+
+    if not isinstance(files, list):
+        files = [files]
     res = []
     restRateMap = defaultdict(list)
     pre_res = ""

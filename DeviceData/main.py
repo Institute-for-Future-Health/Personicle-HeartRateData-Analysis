@@ -1,4 +1,4 @@
-from Patient import Patient
+from DeviceData.Patient import Patient
 from datetime import datetime
 
 DATE_FORMAT = '%Y-%m-%d'

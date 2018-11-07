@@ -34,6 +34,7 @@ TIME_DEP_REQUESTS = (
              "dateParam": "calendarDate"
         } 
         );
+
 GLOBAL_REQUESTS = [
         {
             "title": 'wellness summary',

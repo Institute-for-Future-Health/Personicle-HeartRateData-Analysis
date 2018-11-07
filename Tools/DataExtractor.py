@@ -7,6 +7,53 @@ from scipy import stats
 SegmentSize = 10
 valVarQualifier = 0
 
+PRE_NONMOVE_WINDOWSIZE = 5
+MIN_NONMOVE_WINDOWSIZE = 5
+
+def getPreNonMovingSegmentId(file):
+    df = pd.read_csv(file, encoding="ISO-8859-1")
+    body_data = []
+    output = []
+    for index, row in df.iterrows():
+        body_data.append((row[0], row[2], row[3], row[4], row[5]))
+    pre_eating = -1
+    pre_segid = -1
+    start_of_nonmove = -1
+    for index, row in enumerate(body_data):
+        segid, heartrate, step, moving, status = row
+        if status == 'eating':
+            if index > 0 and body_data[index - 1][3]:
+                if pre_eating != -1:
+                    i = pre_eating
+                    j = 0
+                    total = 0
+                    while not body_data[i][3] and j < PRE_NONMOVE_WINDOWSIZE:
+                        # print(body_data)
+                        total += body_data[i][1]
+                        j += 1
+                        i -= 1
+                    output.append((pre_segid, total/PRE_NONMOVE_WINDOWSIZE))
+                    # print(output)
+                    pre_segid = -1
+                    pre_eating = -1
+        else:
+            if index > 0 and body_data[index - 1][3]:
+                start_of_nonmove = index
+
+            if not moving and index < len(body_data)-1 and (body_data[index + 1][3] or body_data[index + 1][4] == 'eating'):
+                if start_of_nonmove!= -1 and index - start_of_nonmove > MIN_NONMOVE_WINDOWSIZE:
+                    pre_eating = index
+                    pre_segid = segid
+
+    with open('output.txt', 'w') as f:
+        for row in output:
+            f.write(str(row[0]) + ',' + str(row[1]) + '\n')
+
+    return output
+
+
+
+
 def getNpMaxVar(inputArray, segsize = SegmentSize):
     '''
     Todo: Get the highest segment Variation of the array and the segment with that Variation
@@ -102,3 +149,7 @@ def comparison(input1, input2):
         print("Pearson correlation coefficient of two datasets from %s is %f" % (name1, pearVal))
     else:
         print("Pearson correlation coefficient of two datasets from %s and %s is %f" % (name1, name2, pearVal))
+
+
+if __name__ == '__main__':
+    output = getPreNonMovingSegmentId("jordan2_segment.csv")

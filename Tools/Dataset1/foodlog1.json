@@ -1,13 +1,9 @@
 {
   "fitbit-band" : {
-    "-LNlcyfFOqCe1Vfj1tqK" : {
-      "date" : "1001_18",
-      "endMinute" : 918,
-      "startMinute" : 898
-    },
     "-LNle4_lsflTm13XcphD" : {
       "date" : "1001_2018",
       "endMinute" : 923,
+      "foodname" : "unknown",
       "startMinute" : 903,
       "sugarlevel" : 1
     },
@@ -42,6 +38,7 @@
     "-LNqsUAogEYl5oTxlErC" : {
       "date" : "1002_2018",
       "endMinute" : 944,
+      "foodname": "unknown",
       "startMinute" : 924,
       "sugarlevel" : 0
     },
@@ -2114,11 +2111,6 @@
     "-LO-MEX2V21Wd7b7ZfP4" : {
       "foodname" : "protein bar",
       "heartrates" : [ 73, 67, 71, 71, 65, 65, 68, 71, 70, 78, 70, 66, 69, 69, 71, 61, 67, 65, 63, 67 ],
-      "sugarlevel" : 0
-    },
-    "-LOEX34FHhx3jX-eVjoK" : {
-      "foodname" : "eggs",
-      "heartrates" : [ 1, 2, 2, 2, 1, 17, 2, 2 ],
       "sugarlevel" : 0
     },
     "-LOFIBLKrwS4Rx238bLz" : {
